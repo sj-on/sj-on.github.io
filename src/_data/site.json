@@ -1,15 +1,15 @@
 {
   "title": "oh, no. the truth factory!",
-  "tagline": "pretty front. ugly back.",
-  "author": "truth-factory",
-  "description": "Flip-cards of pretty fronts and ugly backs — short questions with blunt answers.",
+  "tagline": "pretty front. prettier back.",
+  "author": "sj-on",
+  "description": "flip-cards of pretty fronts and prettier backs — short questions with blunt answers.",
   "url": "http://localhost:8080",
   "lang": "en-US",
   "keywords": ["truth", "cards", "satire", "flip-cards", "humor"],
   "copyright": {
-    "holder": "truth-factory",
+    "holder": "sj-on",
     "year": 2025,
-    "license": "All rights reserved"
+    "license": "all rights reserved."
   },
   "social": {
     "youtube": "https://www.youtube.com/@xpswithai"

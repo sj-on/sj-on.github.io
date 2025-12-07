@@ -1,8 +1,7 @@
 ---
-title: Socks
+title: socks
 number: 2
 image: "🧦"
-tone: absurd
 questions:
   - "where do my socks go when i am not looking at them?"
   - "i hate my socks."
@@ -10,14 +9,14 @@ questions:
   - "can socks feel pain?"
 ---
 
-these are the things you wear when you don't want to show your bare feet in public. left unwashed they smell like boiled shame.
+these are the things you wear when you don't want to show your bare feet in public. left unwashed they smell like boiled shame. avoid those who skip socks — eww.
 
-if you leave your socks unattended, the sock fairy will kidnap them. they have a new life now. let them go.
+the sock fairy is real. she does not grant wishes. if you leave your socks unattended, she will kidnap them and give them a new life devoid of you or your smells.
 
 here's a message from your mom: please wash your socks regularly.
 
 [answers]
-1. please read the para above.
+1. please read the paras above.
 2. that's not a question.
-3. the sock fairy has quotas. ethics, but evil ones.
-4. yes. unfortunately.
+3. the sock fairy operates on a strict quota system. two would be greedy, and she has ethics.
+4. yes. unfortunately. you just can’t hear it over your own suffering.

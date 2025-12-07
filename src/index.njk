@@ -1,13 +1,13 @@
 ---
 layout: layouts/card-list.njk
-title: Oh No. The Truth Factory
+title: home
 ---
-<h2 class="lead">Flip the pretty front. Read the ugly back.</h2>
+<h2 class="lead">flip the pretty front. read the prettier back.</h2>
 {% import "partials/card-item.njk" as components %}
 <div class="grid" id="cards-list">
   {% for card in collections.cards %}
     {{ components.cardItem(card) }}
   {% else %}
-    <p>No cards found — make sure there are Markdown files in <code>src/cards/</code>.</p>
+    <p>no cards found — make sure there are markdown files in <code>src/cards/</code>.</p>
   {% endfor %}
 </div>

@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // Dynamic copyright year
+  const yearSpan = document.getElementById('year');
+  if (yearSpan) {
+    yearSpan.textContent = new Date().getFullYear();
+  }
+
   // Simple flip behavior for cards. Clicking the card toggles its flipped state.
   document.querySelectorAll('.flip-card').forEach(card => {
     card.addEventListener('click', function (e) {

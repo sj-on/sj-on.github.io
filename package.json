@@ -1,7 +1,7 @@
 {
   "name": "truth-factory-11ty",
   "version": "0.1.0",
-  "description": "Oh No. The Truth Factory \u2014 static site of flip-cards (11ty)",
+  "description": "oh, no. the truth factory! - an flip-card satire site built with 11ty",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
