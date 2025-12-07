@@ -5,38 +5,29 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build site
-        run: npm run build
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./_site
-
-  deploy:
-    name: Deploy
-    needs: build
+  build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
       contents: read
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Eleventy site
+        run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
+        with:
+          # _site is the output folder from 11ty
+          source-dir: _site
