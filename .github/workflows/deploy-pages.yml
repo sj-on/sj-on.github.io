@@ -23,8 +23,10 @@ jobs:
       # install the project and to build the page
       - name: npm ci & build
         uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Specify a node version, e.g., 20, for stability
       - run: npm ci
-      - run: npm npx @11ty/eleventy
+      - run: npx @11ty/eleventy
 
       # deploy the content of _site to the branch gh-pages (default setting)
       - name: deploy
