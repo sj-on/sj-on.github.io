@@ -1,5 +1,6 @@
 ---
 title: Taxes
+number: 1
 image: "💸"
 tone: deadpan
 questions:

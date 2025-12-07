@@ -1,9 +1,12 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang }}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>{{ title }} — oh, no. the truth factory!</title>
+  <title>{{ title }} — {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ title }} — {{ site.title }}" />
   <link rel="stylesheet" href="/assets/styles.css" />
 </head>
 <body class="page">
@@ -11,48 +14,13 @@
 
   <main class="container">
     <article class="card-page">
-      <section class="flip-wrap">
-        <div class="card front">
-          <div class="card-image">{{ image | safe }}</div>
-          <div class="card-questions">
-            {% for q in questions %}
-              <div class="q"> {{ loop.index }}. {{ q }}</div>
-            {% endfor %}
-          </div>
-          <div class="flip-note">Click to flip →</div>
-        </div>
-
-        <div class="card back">
-          <h2 class="card-title">{{ title }}</h2>
-
-          <div class="card-body">
-            {{ content | safe }}
-          </div>
-
-          <div class="answers">
-            {% set body = content | dump %}
-            {# We will render answers by looking for a literal "[answers]" in the raw content. #}
-            {% set raw = content | safe %}
-            {% if raw contains '[answers]' %}
-              {% set parts = raw.split('[answers]') %}
-              {% set para = parts[0] %}
-              {% set answers = parts[1] %}
-              <div class="back-paragraphs">
-                {{ para | safe }}
-              </div>
-              <div class="answers-list">
-                <h3>Answers</h3>
-                <pre class="answers-pre">{{ answers | trim }}</pre>
-              </div>
-            {% else %}
-              <div class="back-paragraphs">{{ content | safe }}</div>
-            {% endif %}
-          </div>
-
-          <div class="flip-note">Click to flip back</div>
-        </div>
-      </section>
+      {% import "partials/card-item.njk" as components %}
+      {# Build a temporary `card` object from the current page data so we can reuse the card macro #}
+      {% set card = { "data": page.data, "templateContent": page.templateContent, "fileSlug": page.fileSlug } %}
+      {{ components.cardItem(card) }}
     </article>
   </main>
+  {% include "partials/footer.njk" %}
+  <script src="/assets/script.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,37 @@
+{% macro cardItem(card) %}
+<article class="flip-card">
+  <div class="flip-inner">
+    <div class="face front">
+      <div class="card-image">{{ card.data.image | safe }}</div>
+      <div class="meta">
+        <div class="card-id">card #{{ card.data.number or card.fileSlug }}</div>
+        <h3 class="card-title">{{ card.data.title }}</h3>
+      </div>
+
+      <div class="card-questions">
+        {% for q in card.data.questions %}
+          <div class="q">{{ loop.index }}. {{ q }}</div>
+        {% endfor %}
+      </div>
+
+      <div class="flip-note">click to flip • tone: {{ card.data.tone }}</div>
+    </div>
+
+    <div class="face back">
+      <div class="back-head">
+        <div class="icon">🔎</div>
+        <div>
+          <div class="small">answers</div>
+          <h3 class="card-title">{{ card.data.title }} — the back</h3>
+        </div>
+      </div>
+
+      <div class="back-body">
+        {{ card.templateContent | safe }}
+      </div>
+
+      <div class="flip-note">click to flip back</div>
+    </div>
+  </div>
+</article>
+{% endmacro %}

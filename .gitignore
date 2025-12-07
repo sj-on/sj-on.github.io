@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Eleventy output
+_site/
+
+# Build / caches
+.cache/
+dist/
+.tmp/
+.parcel-cache/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+.history/
+
+# Misc
+.eslintcache
+.sass-cache
+coverage/
+
+# Lockfiles (optional - keep if you want deterministic installs)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock

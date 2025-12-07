@@ -4,9 +4,13 @@
   "description": "Oh No. The Truth Factory \u2014 static site of flip-cards (11ty)",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "clean": "rimraf _site",
+    "clean:serve": "rimraf _site && npm run build && npx serve _site -l 8080"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^2.0.0",
+    "rimraf": "^5.0.0",
+    "serve": "^14.0.1"
   }
 }

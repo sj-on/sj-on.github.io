@@ -1,5 +1,6 @@
 ---
 title: Socks
+number: 2
 image: "🧦"
 tone: absurd
 questions:
