@@ -1,39 +1,12 @@
-# Oh No. The Truth Factory — 11ty Starter
+# oh, no. the truth factory! 💥
 
-This is a minimal Eleventy (11ty) project scaffold for your "Oh No. The Truth Factory!" card site.
-Each card is a single Markdown file in `src/cards/`. Front (image + questions) is stored in frontmatter;
-back (paragraphs + answers) is the markdown body (use `[answers]` to mark the answers section).
+welcome to the **truth factory** (TF), where the front is pretty and the back is prettier.
 
-## Quick start (you need Node.js and npm)
+this is a collection of absurd, sarcastic, and occasionally horrifying cards about life, money, socks, and other things you probably didn’t ask about.
 
-1. Clone or download this repo and `cd` into it.
-2. Run `npm install` to install Eleventy.
-3. Run `npm run start` to start the dev server (eleventy --serve).
-4. Build for production with `npm run build`.
+## 📝 adding new cards
 
-## Project structure
-
-- src/
-  - _includes/
-    - layouts/
-      - card.njk        -> card layout that renders front & back and flip UI
-    - partials/
-      - header.njk
-  - assets/
-    - styles.css
-  - cards/
-    - socks.md         -> sample card
-  - index.njk
-- .eleventy.js
-- package.json
-
-## Adding cards
-Add a `.md` file under `src/cards/` with frontmatter keys:
-- title
-- image (URL or emoji)
-- questions (YAML array)
-- tone (optional)
-
-Body: paragraphs, then a line with `[answers]` and numbered answers.
-
-Example card file included: `src/cards/socks.md`.
+1. create a .md file in src/cards/
+2. add frontmatter with title, image, questions
+3. add paragraphs in the markdown body
+4. add [answers] section with numbered answers
