@@ -1,0 +1,20 @@
+---
+layout: layouts/card-list.njk
+title: Oh No. The Truth Factory
+---
+<h2 class="lead">Flip the pretty front. Read the ugly back.</h2>
+<div class="grid">
+  {% for card in collections.cards %}
+    <article class="card-summary">
+      <a href="{{ card.url }}">
+        <div class="card-thumb">{{ card.data.image | safe }}</div>
+        <h3>{{ card.data.title }}</h3>
+      </a>
+      <div class="questions">
+        {% for q in card.data.questions %}
+          <div class="q">• {{ q }}</div>
+        {% endfor %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
