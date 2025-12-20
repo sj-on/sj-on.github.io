@@ -1,6 +1,6 @@
 # oh, no. the truth factory! 💥
 
-welcome to the **truth factory** (TF), where the front is pretty and the back is prettier.
+welcome to **the truth factory** (ttf), where the front is pretty and the back is prettier.
 
 this is a collection of absurd, sarcastic, and occasionally horrifying cards about life, money, socks, and other things you probably didn’t ask about.
 

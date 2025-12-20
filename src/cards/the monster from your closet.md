@@ -13,7 +13,7 @@ closet monsters are extremely shy. greet one with a smiling “hi” just once, 
 
 i was very scared of them as a kid. back then, fear had a place to live. it stayed in corners. it waited for night.
 
-then i had to grow up and bear the consequences of the actions of my fellow human beings. i still don't understand how they manage to scare the living daylights out of me every single day, in broad daylight, without hiding at all. greet one with a smiling "hi," and you cannot predict what you have brought upon yourself.
+then i had to grow up and bear the consequences of the actions of my fellow human beings. i have trouble understanding how they manage to scare the living hell out of me every single day, in broad daylight, without hiding at all. greet one with a smiling "hi," and you cannot predict what you have brought upon yourself.
 
 10/10. would be a kid again.
 
