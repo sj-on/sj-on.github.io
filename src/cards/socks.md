@@ -15,8 +15,11 @@ the sock fairy is real. she does not grant wishes. if you leave your socks unatt
 
 here's a message from your mom: please wash your socks regularly.
 
-[answers]
+## [answers]
 1. please read the paras above.
+
 2. that's not a question.
+
 3. the sock fairy operates on a strict quota system. two would be greedy, and she has ethics.
+
 4. yes. unfortunately. you just can’t hear it over your own suffering.

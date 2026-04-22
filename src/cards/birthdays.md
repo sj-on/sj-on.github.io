@@ -24,11 +24,14 @@ if you think about it long enough, birthdays are like most things in life:
 they just happen, and you have to deal with the aftermath.  
 *"oh. this happened too? who was going to tell me?"*
 
-[answers]
+## [answers]
 1. that’s an unreasonable request. also, not a question.  
 btw, happy birthday — whenever it’s due.
+
 2. there’ll come a day. you’ll have to deal with it.  
 i don’t do announcements. we like it quiet here: me, the inner demons, the closet monsters, and everybody in between.
+
 3. birthdays are like magic. if you don’t believe in them, one will fly past without you ever knowing.  
 knowing other people’s birthdays comes in handy while scamming. just saying.
+
 4. 5,000 years. and counting.

@@ -9,4 +9,4 @@ this is a collection of absurd, sarcastic, and occasionally horrifying cards abo
 1. create a .md file in src/cards/
 2. add frontmatter with title, image, questions
 3. add paragraphs in the markdown body
-4. add [answers] section with numbered answers
+4. add ## [answers] section with numbered answers

@@ -19,8 +19,11 @@ paper? dependable, quiet, and literally always there.
 
 frick people, i'm committing myself to paper. it has seen the worst of me and still hasn’t left.
 
-[answers]
+## [answers]
 1. some trees are still alive.
+
 2. yes. we cut down the trees and went, “hey nature corpse, hold my feelings.”
+
 3. paper absorbs emotions like a sponge with a phd in empathy.
+
 4. absolutely. paper has never betrayed me, unlike some individuals i won't name.

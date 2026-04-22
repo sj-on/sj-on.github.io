@@ -19,8 +19,11 @@ then i had to grow up and bear the consequences of the actions of my fellow huma
 
 the monster from my closet was a lot less scary.
 
-[answers]
+## [answers]
 1. yes. but they never meant to hurt anyone.
+
 2. because closets are quiet, dark, and mostly ignored — same as their personalities.
+
 3. i tried not to give them a reason to. i learned early how not to provoke things bigger than me.
+
 4. nothing. it stayed in the closet. i’m the one who left.

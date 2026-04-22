@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/cards/*.md").sort(function(a,b){
       const na = (a.data && a.data.number) || 0;
       const nb = (b.data && b.data.number) || 0;
-      return na - nb;
+      return nb - na;
     });
   });
 

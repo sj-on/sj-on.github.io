@@ -17,8 +17,11 @@ and the most accessible. like, all you really needed was a spider and some quali
 
 turns out reality is less cinematic and more… medical.
 
-[answers]
+## [answers]
 1. sadly, not me.
+
 2. yes, but it wasn’t radioactive. i just got hives. it was painful, itchy, and deeply unheroic. now i hate spiders.
+
 3. eff yeah!
+
 4. aww, that’s cute. anyway, flattery is for losers, dummy.

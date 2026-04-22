@@ -17,8 +17,11 @@ it is not that difficult to be rich. you just have to 1. have the right connecti
 
 it is rumoured that for every 10 non-rich people, there exists a rich person. that's a birth rate lower than my annual salary hike.
 
-[answers]
+## [answers]
 1. money.
+
 2. no.
+
 3. yeah, as mentioned in his book, he's in a lot of debt.
+
 4. let's not get too personal, shall we?

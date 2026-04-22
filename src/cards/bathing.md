@@ -17,8 +17,11 @@ every winter, i have to embark on a spiritual journey called “do i *actually* 
 
 bathing just feels… unnatural, unnecessary — heck, it doesn't even wash my sins away. (jesus had to die for that.) the soap can cleanse my body, sure, but who’s handling the internal damage, bro?
 
-[answers]
+## [answers]
 1. if you don't fricking care about that cute little baby soap bar getting wasted, well, DO IT!
+
 2. once a year should be nice.
+
 3. perpendicular over hypotenuse.
+
 4. we're still figuring that one out.
