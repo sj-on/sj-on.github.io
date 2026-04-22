@@ -15,7 +15,7 @@ a sister channel is a classic example of a main channel gone feral. think "when 
 
 you may or may not question the authority, but you can always question your sanity.
 
-## [answers]
+#### [answers]
 1. because there's not enough chaos in the world to begin with.
 
 2. a total collapse of the sibling ego. the "bossing around" turns into a desperate, existential identity crisis. when the "dorian mode" deep dive gets more hits than the "professional tech review," the creator realizes the feral child was the one they should have been all along.

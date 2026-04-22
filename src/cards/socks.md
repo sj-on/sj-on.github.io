@@ -15,7 +15,7 @@ the sock fairy is real. she does not grant wishes. if you leave your socks unatt
 
 here's a message from your mom: please wash your socks regularly.
 
-## [answers]
+#### [answers]
 1. please read the paras above.
 
 2. that's not a question.

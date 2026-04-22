@@ -13,7 +13,7 @@ being on a high that can only be induced by prolonged company of blue screens, t
 
 the brain is a fucking liar. it lies so convincingly.
 
-## [answers]
+#### [answers]
 1. the brain agrees you should.
 
 2. i'm glad you asked. they are:

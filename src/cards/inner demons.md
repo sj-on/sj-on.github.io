@@ -14,7 +14,7 @@ gather enough courage to stare one down, and the demon just blinks back like, **
 
 demons aren’t nice. i mostly rely on distractions to avoid acknowledging them. it works until it doesn’t — and then i go right back to ignoring them again. emotional cardio, basically, but, like, the cursed version.
 
-## [answers]  
+#### [answers]  
 1. you tucked it in one day, deep into the safe, soft warmth of your internal organs, and then forgot. it has lived rent-free ever since.
 
 2. it means overthinking until the demon gets bored enough to leave on its own.  

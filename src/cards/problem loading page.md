@@ -20,7 +20,7 @@ i just wanted the thing i came here for.
 
 instead, i’m staring at an apology from a machine that clearly doesn’t mean it.
 
-## [answers]
+#### [answers]
 1. a page that failed its one job and decided to make that your problem.
 
 2. no. it just wants to be acknowledged and then disappear.

@@ -24,7 +24,7 @@ if you think about it long enough, birthdays are like most things in life:
 they just happen, and you have to deal with the aftermath.  
 *"oh. this happened too? who was going to tell me?"*
 
-## [answers]
+#### [answers]
 1. that’s an unreasonable request. also, not a question.  
 btw, happy birthday — whenever it’s due.
 

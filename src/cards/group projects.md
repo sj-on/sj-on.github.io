@@ -13,7 +13,7 @@ once upon a time, a teacher woke up and chose violence. that was the day group p
 
 the group forms. chaos ignites. someone sends “hi guys!” and is never heard from again. someone else says “what are we doing?” even though the instructions are literally pinned. you, meanwhile, begin to understand why ancient philosophers wandered into the woods and never came back. teamwork happens accidentally, mostly because one exhausted soul gives up and does everything.
 
-## [answers]
+#### [answers]
 1. a teacher once decided he hated his students, and group projects were the perfect way to get back at them. historians support this claim.
 
 2. they vanish. instantly. the moment the assignment is submitted, they dissolve like cursed spirits whose purpose has been fulfilled.

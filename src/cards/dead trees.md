@@ -19,7 +19,7 @@ paper? dependable, quiet, and literally always there.
 
 frick people, i'm committing myself to paper. it has seen the worst of me and still hasn’t left.
 
-## [answers]
+#### [answers]
 1. some trees are still alive.
 
 2. yes. we cut down the trees and went, “hey nature corpse, hold my feelings.”
