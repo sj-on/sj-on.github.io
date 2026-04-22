@@ -9,7 +9,7 @@ questions:
   - "is donating good?"
 ---
 
-when i think of lungs, the first thing that comes to my mind is, obviously, breathing. breathing is something that i am very good at. i have done it ever since i was born. even before i was born, i thought about breathing and how nice it would be to have as a hobby. so i practiced it in the womb.
+when i think of lungs, the first thing that comes to my mind is breathing. breathing is something that i am very good at. i have done it ever since i was born. even before i was born, i thought about breathing and how nice it would be to have as a hobby. so i practiced it in the womb.
 
 and then i came into this world — as a baby, obviously — and i taught my parents to breathe. i found they picked it up pretty quick. then i taught them how to change my nappies and clean me up.
 
@@ -20,9 +20,8 @@ thank you, parents! you are awesome.
 "'cuz when the AQI is shit,  
 these lungs take the hit."
 
-2. there's an app i created for that. it’s available on the play store and the app store — and it literally depicts my medical records (including how healthy my lungs are) in real time. powered by web sockets.  
-oh, you meant your lungs? sorry. i misunderstood. happens more than i’d like to admit.  
-if your lungs are inside your body, trust me — they’re already outperforming mine.
+2. there's an app i created for that. it’s available on the play store and the app store — and it *literally* depicts my medical records (including how healthy my lungs are) in real time. powered by web sockets.  
+oh, you meant *your* lungs? if your lungs are inside your body, trust me — they’re already outperforming mine.
 
 3. can they? i mean, i guess, yeah. mostly fear. they can sense it when i am panicking, which i am currently not.
 
