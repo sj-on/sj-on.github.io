@@ -49,6 +49,19 @@
 .card-id{ font-size:12px; color:var(--muted); }
 .back-body{ overflow:auto; flex:1; font-size:15px; color:#111827; }
 
+/* Hide scrollbar for Chrome, Safari and Opera */
+.face::-webkit-scrollbar,
+.back-body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.face,
+.back-body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
 @media (max-width:600px) {
   .flip-card { min-height: 60vh; }
   .flip-inner { min-height: 60vh; }
