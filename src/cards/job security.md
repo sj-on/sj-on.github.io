@@ -13,7 +13,7 @@ a job is said to be secure when it cannot be easily guessed. i thought this was 
 
 some jobs are — by their very nature — more secure than other jobs.
 
-not knowing god's modus operandi ensures that a godman never has to leave his office of profit, and political unawareness of the commons fills a politician with a sense of safety that a vast section of society can never learn to afford.
+you not knowing god's modus operandi ensures that a godman never has to leave his office of profit, and political unawareness of the commons fills a politician with a sense of safety that a vast section of society can never learn to afford.
 
 #### [answers]
 1. the one that doesn't make you feel left out.
