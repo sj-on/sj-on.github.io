@@ -11,9 +11,11 @@ questions:
 
 unsolicited life advice is often generic, inapplicable to the situation in question (if it was ever brought up), and basically an insult to the receiving end.
 
-you can "mark as spam" a junk mail, but no such mechanism is available for its irl counterpart.
+you can "mark as spam" a junk mail, but its irl counterpart lacks that mechanism.
 
-i am not getting back those 25 minutes, but guess what, the theory of relativity just gained a new believer! time dilates and so do my eyes / hey, another unsolicited advice!
+i am not getting back those 25 minutes, but guess what, the theory of relativity just gained a new believer!
+
+time dilates and so do my eyes / hey, another unsolicited advice!
 
 
 #### [answers]
