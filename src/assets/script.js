@@ -8,13 +8,46 @@ document.addEventListener("DOMContentLoaded", function () {
   // Simple flip behavior for cards. Clicking the card toggles its flipped state.
   document.querySelectorAll('.flip-card').forEach(card => {
     card.addEventListener('click', function (e) {
-      // Avoid flipping when clicking links or interactive elements
-      const tag = (e.target && e.target.tagName || '').toLowerCase();
-      if (tag === 'a' || tag === 'button' || e.target.closest && e.target.closest('a')) return;
+      const interactiveTarget = e.target && e.target.closest ? e.target.closest('a, button, .share-btn') : null;
+      if (interactiveTarget) return;
       card.classList.toggle('flipped');
     });
+
+    const shareButton = card.querySelector('.share-btn');
+    if (!shareButton) return;
+
+    shareButton.addEventListener('click', async function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      const shareUrl = shareButton.dataset.shareUrl || card.dataset.shareUrl || '';
+      const fullUrl = shareUrl ? new URL(shareUrl, window.location.origin).toString() : window.location.href;
+
+      if (navigator.share) {
+        try {
+          await navigator.share({ title: document.title, url: fullUrl });
+          return;
+        } catch (error) {
+          if (error && error.name === 'AbortError') {
+            return;
+          }
+        }
+      }
+
+      try {
+        await navigator.clipboard.writeText(fullUrl);
+        shareButton.classList.add('copied');
+        shareButton.setAttribute('aria-label', 'Link copied');
+        window.setTimeout(() => {
+          shareButton.classList.remove('copied');
+          shareButton.setAttribute('aria-label', 'Share this card');
+        }, 1400);
+      } catch (error) {
+        window.prompt('Copy this link:', fullUrl);
+      }
+    });
   });
-  
+
   // Theme toggle: persist in localStorage and apply `.dark` class to <html>
   const themeToggle = document.getElementById('theme-toggle');
   const root = document.documentElement || document.querySelector('html');

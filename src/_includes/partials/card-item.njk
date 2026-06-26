@@ -1,5 +1,13 @@
 {% macro cardItem(card) %}
-<article class="flip-card">
+{% set shareUrl = card.url or card.data.url or '' %}
+<article class="flip-card" data-share-url="{{ shareUrl }}">
+  <button class="share-btn" type="button" aria-label="Share this card" data-share-url="{{ shareUrl }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M14 5l5 5-5 5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+      <path d="M19 10H9a4 4 0 0 0-4 4v1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
+      <path d="M7 4h2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
+    </svg>
+  </button>
   <div class="flip-inner">
     <div class="face front">
       <div class="card-image">{{ card.data.image | safe }}</div>
