@@ -1,6 +1,8 @@
 module.exports = function (eleventyConfig) {
   // Copy the `src/assets` folder to `_site/assets` so CSS and JS are available
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+  // Copy CNAME
+  eleventyConfig.addPassthroughCopy("src/CNAME");
 
   // Create a `cards` collection from files in `src/cards` and sort by `number` frontmatter
   eleventyConfig.addCollection("cards", function(collectionApi) {
