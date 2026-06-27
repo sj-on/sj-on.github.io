@@ -16,8 +16,17 @@
   <main class="container">
     <article class="card-page">
       {% import "partials/card-item.njk" as components %}
-      {# Build a temporary `card` object from the current page data so we can reuse the card macro #}
-      {% set card = { "data": page.data, "templateContent": page.templateContent, "fileSlug": page.fileSlug, "url": page.url } %}
+      {% set card = {
+        "data": {
+          "title": title,
+          "image": image,
+          "number": number,
+          "questions": questions
+        },
+        "templateContent": content,
+        "fileSlug": page.fileSlug,
+        "url": page.url
+      } %}
       {{ components.cardItem(card) }}
     </article>
   </main>
