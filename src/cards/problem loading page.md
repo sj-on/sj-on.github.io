@@ -9,11 +9,10 @@ questions:
   - "what am i supposed to do with it?"
 ---
 
-a problem loading page is a web page whose sole purpose is to add problems to your life.  
-as if there aren’t any already.
+a problem loading page is a web page whose sole purpose is to load problems to your life.  
+as if there aren’t many already.
 
-like, dude. i am committed to my existing problems.  
-i can’t cheat on them with *your* 43 offspring.
+like, dude. i am committed to my existing problems. i can’t cheat on them with *your* 43 offspring.
 
 i didn’t ask for new issues. i didn’t click “add to cart.”  
 i just wanted the thing i came here for.
