@@ -18,6 +18,6 @@ that is why she keeps running away from her (over to trees). she's scared of get
 
 2. consult a bird friend. or red bull.
 
-3. adorableness is a by-product of never forgetting how small you are.
+3. adorableness is a by-product of never forgetting how small you are. also, squirrels are cute only until they bite off your toe.
 
 4. my neighbour has filed for a redistribution. gotta see what that's about. bye.
