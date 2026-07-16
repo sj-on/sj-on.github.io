@@ -20,4 +20,4 @@ what's funnier is how you can bleep out a perfectly moral sentence and everyone 
 2. they stay hidden away in the holes humans have darned them to.
 3. scapegoating. it wasn't the word's fault, i swear.
 4. *my immortal* by tara gilesbie. absolute goldmine of swears and an excellent vocabulary builder. 5/5 god reviuws. will read again.  
-sometimes, my pigeon — when he gets time — holds these tuition classes for free.
+sometimes, my pigeon — when he gets time — holds these tuition classes for free. *ow, fu—.*
