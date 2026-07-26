@@ -16,7 +16,7 @@ not true. i have counterexamples that i will not hesitate to present, if provoke
 *frick. i've been provoked.*
 
 counter-example #1: wars.  
-counter-example #2: sequel to wars.
+counter-example #2: sequels to wars.
 
 birthdays aren’t just for the living. the dead get them too — provided they were famous enough.
 
