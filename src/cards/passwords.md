@@ -9,7 +9,9 @@ questions:
   - "is there a senior living facility for passwords?"
 ---
 
-passwords are domesticated secrets reincarnated. left unattended, they eventually wander off into the wild, with suffering as their only true companion.
+passwords are domesticated secrets reincarnated.
+
+left unattended, they eventually wander off into the wild, with suffering as their only true companion.
 
 #### [answers]  
 1. the swears.

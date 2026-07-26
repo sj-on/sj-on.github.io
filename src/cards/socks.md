@@ -9,14 +9,14 @@ questions:
   - "can socks feel pain?"
 ---
 
-these are the things you wear when you don't want to show your bare feet in public. left unwashed they smell like boiled shame. avoid those who skip socks — eww.
+feet gloves to wear when you don't want to be seen with your bare feet in public. left unwashed, they smell like boiled shame. avoid those who skip socks, *eww*.
 
 the sock fairy is real. she does not grant wishes. if you leave your socks unattended, she will kidnap them and give them a new life devoid of you or your smells.
 
 here's a message from your mom: please wash your socks regularly.
 
 #### [answers]
-1. please read the paras above.
+1. the fairy asked me not to reveal classified information.
 
 2. that's not a question.
 

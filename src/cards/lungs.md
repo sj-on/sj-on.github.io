@@ -25,7 +25,7 @@ oh, you meant *your* lungs? if your lungs are inside your body, trust me — the
 
 3. can they? i mean, i guess, yeah. mostly fear. they can sense it when i am panicking, which i am currently not.
 
-4. donating? yes. lungs? yes. organ donation is a good practice. it’s like donating money. when you’ve had enough of your lungs — or when your lungs are done with you — donate them to someone they'd like to be a part of. e.g., a science experiment.  
+4. donating lungs? yes. organ donation is a good practice. it’s like donating money. when in excess — donate them to someone they'd like to be a part of. e.g., a science experiment.  
 basically, you shouldn’t let them go to waste. that'll make lungs sad.  
 reuse. recycle. respire.  
 if science says no, donate them to a museum. let the kids learn from your mistakes.

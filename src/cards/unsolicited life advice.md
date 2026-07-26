@@ -13,13 +13,10 @@ unsolicited life advice is often generic, inapplicable to the situation in quest
 
 you can "mark as spam" a junk mail, but its irl counterpart lacks that mechanism.
 
-i am not getting back those 25 minutes, but guess what, the theory of relativity just gained a new believer!
-
-time dilates and so do my eyes / hey, another unsolicited advice!
-
+prolonged exposure to unsolicited advice has measurable effects on nearby clocks. i am not getting back those 25 minutes, but guess what, the theory of relativity just gained a new believer!
 
 #### [answers]
-1. a multifunctionary discipline, a branch of phobosophy, that manages to do a lot and literally nothing, simultaneously. how? not my department.
+1. a multifunctionary discipline, a branch of phobosophy, that manages to do a lot and nothing, simultaneously. how? not my department.
 
 2. the speaker wholeheartedly agrees!
 

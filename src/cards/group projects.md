@@ -16,12 +16,12 @@ the group forms. chaos ignites. someone sends “hi guys!” and is never heard 
 #### [answers]
 1. a teacher once decided he hated his students, and group projects were the perfect way to get back at them. historians support this claim.
 
-2. they vanish. instantly. the moment the assignment is submitted, they dissolve like cursed spirits whose purpose has been fulfilled.
+2. they vanish instantly. the moment the assignment is submitted, they dissolve like cursed spirits whose purpose has been fulfilled.
 
 3. because there are only four kinds of group members:
     - the one who does everything (blessed be their soul)
     - the one who offers moral support (sends emojis and nothing else)
-    - the one who takes the credit (“we really worked hard”)
+    - the one who takes the credit (“*we* worked really hard on this”)
     - the one who is a ghost (the group doesn't know they exist and vice-versa)
     
 4. hell no!

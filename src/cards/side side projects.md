@@ -16,7 +16,7 @@ a main project is the one which you never get to work on what with all the side 
 don't worry, you'll get the hang of it.
 
 #### [answers]  
-1. um, i only know how to count till 10.
+1. one more than you currently have.
 
 2. that’s oddly specific. also, not exactly — but yeah. 
 

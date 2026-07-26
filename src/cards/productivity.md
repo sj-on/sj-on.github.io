@@ -11,7 +11,9 @@ questions:
 
 being on a high that can only be induced by prolonged company of blue screens, the brain may falsely report engagement as productivity.
 
-the brain is a fucking liar. it lies so convincingly.
+the brain is a fricking liar. it lies so convincingly.
+
+the worst part is that it believes itself.
 
 #### [answers]
 1. the brain agrees you should.

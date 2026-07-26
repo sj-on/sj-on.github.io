@@ -9,7 +9,7 @@ questions:
   - "cloudflare pages?"
 ---
 
-if you ever dreamt of publishing a static site, first of all: *wtf, bro. don’t you have better things to dream about?*
+if you ever dreamt of publishing a static site, first of all: *wtf, bro. it's a crime to dream small.*
 
 but also, github pages is cool.
 

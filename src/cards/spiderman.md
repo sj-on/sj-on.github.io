@@ -9,7 +9,7 @@ questions:
   - "you’re my favourite spiderman."
 ---
 
-for as long as i’ve been a child, cartoons have been there for me. i grew up watching heroes and superheroes and wanting to be one. my ambitions transitioned fluidly — from being a proud owner of a real omnitrix to a real ultimatrix, then a vibranium shield. iron man's suit even made me consider mechanical engineering (but i didn’t, because i love computers more). somewhere in between all that, i also wanted to be the flash.
+as long as i was a child, cartoons were there for me. i grew up watching heroes and superheroes and wanting to be one. my ambitions transitioned fluidly — from being a proud owner of a real omnitrix to a real ultimatrix, then a vibranium shield. iron man's suit even made me consider mechanical engineering (but i didn’t, because i love computers more). somewhere in between all that, i also wanted to be the flash.
 
 but spiderman always felt like the most self-made of them all.
 

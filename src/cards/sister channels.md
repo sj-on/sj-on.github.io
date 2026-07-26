@@ -18,8 +18,8 @@ you may or may not question the authority, but you can always question your sani
 #### [answers]
 1. because there's not enough chaos in the world to begin with.
 
-2. a total collapse of the sibling ego. the "bossing around" turns into a desperate, existential identity crisis. when the "dorian mode" deep dive gets more hits than the "professional tech review," the creator realizes the feral child was the one they should have been all along.
+2. a total collapse of the sibling ego. when the "dorian mode" deep dive gets more hits than the "professional tech review," the creator realizes the feral child was the one they should have been all along.
 
-3. the sister channel is the only place where the creator is truly honest, which is exactly why the main channel (and the audience) is so terrified of it. one is a career; the other is a confession.
+3. the sister channel is the only place where the creator is truly honest, which is why the main channel (and the audience) is so terrified of it. one is a career; the other is a confession.
 
-4. deep within our hearts, we all want to believe we are doing okay, but the brain knows. it always does.
+4. i have three sister channels. what do you think?

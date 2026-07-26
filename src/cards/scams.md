@@ -20,6 +20,8 @@ come to think of it, i’ve been scammed in some way or the other my entire life
 
 2. nameless people. shameless people.
 
-3. at this point, yeah. if there's one thing i've learnt: if you can't beat 'em, join 'em. i’ve made a list of people i want to scam, and you’re not on it. not sure if that’s a good thing.
+3. at this point, yeah. if there's one thing i've learnt: if you can't beat 'em, join 'em. i’ve made a list of people i want to scam, and you’re not on it.
+
+not sure if that’s a good thing.
 
 4. nope. if it's a scam, it's bad. simple. except when i get to do it. then it won't be called a scam.

@@ -9,7 +9,9 @@ questions:
   - "where is the internet?"
 ---
 
-things that have found a home on the internet. lucky them! home is an expensive, hard-to-find place where love exists unconditionally. maybe that's why it is hard to find.
+things that have found a home on the internet.
+
+lucky them! home is an expensive, hard-to-find place where love exists unconditionally. maybe that's why it is hard to find.
 
 things of internet often don't stay that way. they creep into the offline life one bit at a time.
 
