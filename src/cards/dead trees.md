@@ -20,7 +20,7 @@ paper? dependable, quiet, and literally always there.
 frick people, i'm committing myself to paper. it has seen the worst of me and still hasn’t left.
 
 #### [answers]
-1. there are still trees alive that paper can be made out of.
+1. there still are trees alive that paper can be made out of.
 
 2. yes. we cut down the trees and went, “hey, nature corpse, hold my feelings.”
 
