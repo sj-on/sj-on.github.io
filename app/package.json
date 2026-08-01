@@ -1,0 +1,20 @@
+{
+  "name": "truth-factory-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "the truth factory — swipeable card app, wrapping the same content as the sj-on.github.io site",
+  "scripts": {
+    "sync": "cap sync",
+    "open:android": "cap open android",
+    "open:ios": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.2"
+  }
+}

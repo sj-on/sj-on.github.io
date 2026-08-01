@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <title>the truth factory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Splash: TF mark + wordmark, fades to the latest card once content is ready -->
+  <div id="splash" class="splash" aria-hidden="true">
+    <div class="mark">TF</div>
+    <p class="wordmark">the truth factory</p>
+  </div>
+
+  <!-- App -->
+  <main id="app" class="app">
+    <header class="app-header">
+      <span class="brand">the truth factory</span>
+      <span id="counter" class="counter">card — of —</span>
+    </header>
+
+    <div id="deck" class="deck" aria-live="polite">
+      <!-- cards injected here: .card.behind (peek) then .card.top (active) -->
+    </div>
+
+    <div class="hint" id="hint">tap to flip · swipe to move</div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

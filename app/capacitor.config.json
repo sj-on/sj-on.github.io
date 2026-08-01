@@ -1,0 +1,9 @@
+{
+  "appId": "io.github.sjon.truthfactory",
+  "appName": "the truth factory",
+  "webDir": "www",
+  "backgroundColor": "#0f172a",
+  "server": {
+    "androidScheme": "https"
+  }
+}

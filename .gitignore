@@ -38,6 +38,16 @@ Thumbs.db
 *~
 .history/
 
+# Capacitor app: keep android/ and ios/ platform source committed,
+# but ignore their generated build output
+app/android/app/build/
+app/android/.gradle/
+app/android/local.properties
+app/ios/App/Pods/
+app/ios/App/build/
+app/ios/App/DerivedData/
+app/www/cards.json
+
 # Misc
 .eslintcache
 .sass-cache
