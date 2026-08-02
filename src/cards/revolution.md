@@ -11,7 +11,7 @@ questions:
 
 a revolution is an activity of magnitude that results in change of seasons, regimes, or both.
 
-for every 365.25 solar days, a year passes on earth, thanks to its revolutionary nature.
+for every 364.25 solar days, a year passes on earth, thanks to its revolutionary nature.
 
 #### [answers]  
 1. try syncing to earth's rotational frequency. your passwords will be happier knowing they are geo-synced.
