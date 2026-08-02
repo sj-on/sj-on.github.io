@@ -4,7 +4,6 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "src/cards/**"
       - "app/**"
       - ".github/workflows/build-android.yml"
   workflow_dispatch:
