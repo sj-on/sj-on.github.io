@@ -88,8 +88,6 @@ out of sync.
 
 ## What's deliberately not done yet
 
-- **App icon / native splash image** — currently using Capacitor's default
-  icon. Easy to swap in later (a real "tf" mark asset would help here).
 - **Signed release builds** — both workflows produce unsigned/debug builds
   for testing. Signing for the Play Store or App Store is a deliberate
   later step once you're ready to publish, since it involves accounts and
