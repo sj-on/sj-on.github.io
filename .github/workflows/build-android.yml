@@ -9,21 +9,21 @@ on:
       - ".github/workflows/build-android.yml"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Regenerate cards.json from src/cards
-        run: node scripts/build-cards-json.mjs
-
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Install root dependencies (needed by build-cards-json.mjs)
+        run: npm ci
+
+      - name: Regenerate cards.json from src/cards
+        run: node scripts/build-cards-json.mjs
 
       - name: Install app dependencies
         working-directory: app
@@ -46,28 +46,15 @@ jobs:
         working-directory: app/android
         run: ./gradlew assembleDebug --no-daemon
 
-      - name: Upload APK as workflow artifact
+      - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: truth-factory-debug-apk
           path: app/android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
 
-      - name: Publish APK to a GitHub Release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: android-debug-${{ github.run_number }}
-          name: "Android debug build #${{ github.run_number }}"
-          prerelease: true
-          body: |
-            Unsigned debug APK, auto-built from commit ${{ github.sha }}.
-            Sideload-only — not signed for the Play Store. See app/APP_SETUP.md.
-          files: app/android/app/build/outputs/apk/debug/app-debug.apk
-
 # This produces an unsigned debug APK you can sideload onto a device or an
-# emulator right away — no Google Play account needed. Every push also cuts
-# a GitHub Release (marked pre-release, since it's a debug build) so you get
-# a stable, non-expiring download link instead of relying on the 90-day
-# workflow-artifact retention. When you're ready to publish to the Play
-# Store, add a signing config + a keystore stored as a repo secret, and
-# switch the build steps to `assembleRelease` / `bundleRelease`.
+# emulator right away — no Google Play account needed. When you're ready to
+# publish to the Play Store, add a signing config + a keystore stored as a
+# repo secret, and switch the last two steps to `assembleRelease` /
+# `bundleRelease`.

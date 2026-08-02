@@ -15,12 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Regenerate cards.json from src/cards
-        run: node scripts/build-cards-json.mjs
-
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Install root dependencies (needed by build-cards-json.mjs)
+        run: npm ci
+
+      - name: Regenerate cards.json from src/cards
+        run: node scripts/build-cards-json.mjs
 
       - name: Install app dependencies
         working-directory: app

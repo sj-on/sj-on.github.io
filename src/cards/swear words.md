@@ -9,7 +9,7 @@ questions:
   - "what can i learn swears from?"
 ---
 
-a few years ago, i was one of those people who thought swearing was bad. cut to the present, and i have converted, earning a specialisation in speaking in morse code.
+a few years ago, i was part of the *"swearing = bad" club*. cut to the present, and i have converted, earning a specialisation in speaking in morse code.
 
 swearing is a resourceful little activity. it helps you get your point across amidst the textbook nonsense by presenting you as tougher and more confident than you have any right to be. that's one trick i've learnt from watching those national tv debates.
 

@@ -40,31 +40,18 @@
         "</div>"
       );
     }
-    var intro = (card.intro || [])
-      .map(function (p) {
-        return '<p class="intro-p">' + escapeHtml(p) + "</p>";
-      })
-      .join("");
-    var answers = card.answers
-      .map(function (a, i) {
-        return (
-          '<p class="answer"><span class="n">' +
-          (i + 1) +
-          ".</span>" +
-          escapeHtml(a) +
-          "</p>"
-        );
-      })
-      .join("");
     return (
       '<div class="face back">' +
       '<div class="back-head"><div class="icon">🔎</div><div>' +
       '<div class="small">answers</div>' +
       '<h2 class="card-title">' + escapeHtml(card.title) + "</h2>" +
       "</div></div>" +
-      '<div class="intro">' + intro + "</div>" +
-      (card.answers.length ? '<div class="answers-label">answers</div>' : "") +
-      answers +
+      '<div class="intro">' + (card.introHtml || "") + "</div>" +
+      (card.answersHtml
+        ? '<div class="answers-label">answers</div><div class="answers">' +
+          card.answersHtml +
+          "</div>"
+        : "") +
       '<div class="face-note">tap to flip back</div>' +
       "</div>"
     );
@@ -255,17 +242,50 @@
     splashEl.classList.add("hidden");
   }
 
-  function init() {
-    fetch("cards.json")
+  // Cards are fetched live from the published site first, so new/edited
+  // cards show up without anyone having to reinstall the app. The copy
+  // bundled at build time (./cards.json, right next to this file) is only
+  // a fallback for offline / first-launch-before-any-network use.
+  var LIVE_CARDS_URL = "https://sj-on.github.io/cards.json";
+  var LIVE_FETCH_TIMEOUT_MS = 4000;
+
+  function fetchWithTimeout(url, ms) {
+    var controller = new AbortController();
+    var timer = window.setTimeout(function () {
+      controller.abort();
+    }, ms);
+    return fetch(url, { signal: controller.signal, cache: "no-store" }).finally(
+      function () {
+        window.clearTimeout(timer);
+      }
+    );
+  }
+
+  function loadCards() {
+    return fetchWithTimeout(LIVE_CARDS_URL, LIVE_FETCH_TIMEOUT_MS)
       .then(function (r) {
-        if (!r.ok) throw new Error("failed to load cards.json");
+        if (!r.ok) throw new Error("live fetch returned " + r.status);
         return r.json();
       })
+      .catch(function (err) {
+        console.warn(
+          "live cards.json fetch failed, falling back to bundled copy:",
+          err.message
+        );
+        return fetch("cards.json").then(function (r) {
+          if (!r.ok) throw new Error("bundled cards.json missing too");
+          return r.json();
+        });
+      });
+  }
+
+  function init() {
+    loadCards()
       .then(function (data) {
         cards = data; // already sorted newest-first by build-cards-json.mjs
         index = 0;
         render();
-        // Small deliberate pause so the stamp is seen, then fade to the deck.
+        // Small deliberate pause so the mark is seen, then fade to the deck.
         window.setTimeout(hideSplash, 900);
       })
       .catch(function (err) {

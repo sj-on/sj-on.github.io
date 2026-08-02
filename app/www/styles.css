@@ -232,11 +232,21 @@ html, body {
   letter-spacing: 0.04em;
 }
 
-.intro-p {
+.intro p {
   font-size: 14px;
   line-height: 1.55;
   color: var(--ink);
   margin: 0 0 10px;
+}
+
+.intro em,
+.answers em {
+  font-style: italic;
+}
+
+.intro strong,
+.answers strong {
+  font-weight: 700;
 }
 
 .answers-label {
@@ -249,20 +259,37 @@ html, body {
   margin: 4px 0 10px;
 }
 
-.answer {
-  font-size: 14px;
-  line-height: 1.5;
-  color: var(--ink);
-  margin: 0 0 10px;
+.answers ol {
+  margin: 0;
   padding-left: 22px;
-  position: relative;
 }
 
-.answer .n {
-  position: absolute;
-  left: 0;
+.answers ol > li {
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+  margin-bottom: 10px;
+}
+
+.answers ol > li::marker {
   color: var(--accent);
   font-weight: 700;
+}
+
+.answers ol > li > p {
+  margin: 0;
+}
+
+.answers ul {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+
+.answers ul > li {
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin-bottom: 4px;
 }
 
 .hint {

@@ -3,6 +3,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   // Copy CNAME
   eleventyConfig.addPassthroughCopy("src/CNAME");
+  // Publish the app's generated cards.json at the site root, so the
+  // Capacitor app can fetch live card data instead of only ever showing
+  // whatever was bundled into it at build time. Requires
+  // `node scripts/build-cards-json.mjs` to have run before this build —
+  // see .github/workflows/deploy-pages.yml.
+  eleventyConfig.addPassthroughCopy({ "app/www/cards.json": "cards.json" });
 
   // Create a `cards` collection from files in `src/cards` and sort by `number` frontmatter
   eleventyConfig.addCollection("cards", function(collectionApi) {

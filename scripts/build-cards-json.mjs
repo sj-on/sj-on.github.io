@@ -9,19 +9,27 @@
  * they can never drift out of sync as long as this script and the
  * eleventy collection agree on the sort order (highest `number` first).
  *
- * No external dependencies on purpose — this only needs to run reliably
- * in CI, so it's plain Node + a small hand-rolled frontmatter parser
- * tailored to this repo's card format.
+ * Markdown in the card body (bold, italic, nested lists, etc.) is rendered
+ * with markdown-it — the same engine 11ty uses internally by default — so
+ * the app's formatting matches the website's exactly, not an approximation
+ * of it.
+ *
+ * The output file is also passthrough-copied into the built site as
+ * /cards.json by .eleventy.js, so the app can fetch the live version at
+ * runtime instead of only ever showing whatever was bundled at build time.
  */
 
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import MarkdownIt from "markdown-it";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.resolve(__dirname, "..");
 const CARDS_DIR = path.join(REPO_ROOT, "src", "cards");
 const OUT_FILE = path.join(REPO_ROOT, "app", "www", "cards.json");
+
+const md = new MarkdownIt({ html: true });
 
 function splitFrontmatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
@@ -74,33 +82,22 @@ function stripQuotes(s) {
 //   1. answer one
 //
 //   2. answer two
+//      - nested detail
 //
-// We only need the numbered answers, aligned by index to `questions`.
-function extractAnswers(body) {
-  const marker = body.indexOf("[answers]");
-  if (marker === -1) return [];
-  const afterMarker = body.slice(marker + "[answers]".length);
-
-  const answers = [];
-  const itemRegex = /^\s*(\d+)\.\s+([\s\S]*?)(?=^\s*\d+\.\s+|\s*$(?![\s\S]))/gm;
-  let match;
-  while ((match = itemRegex.exec(afterMarker)) !== null) {
-    const text = match[2].trim().replace(/\s+/g, " ");
-    if (text) answers.push(text);
-  }
-  return answers;
+// We render the two halves as markdown separately (rather than reducing
+// them to plain strings) so bold, italic, and nested lists survive intact
+// on both the site and the app.
+function renderIntroHtml(body) {
+  const marker = body.indexOf("#### [answers]");
+  const introMarkdown = marker === -1 ? body : body.slice(0, marker);
+  return md.render(introMarkdown.trim());
 }
 
-// The paragraphs that come before "#### [answers]" — these are the setup
-// that makes the answers make sense, and the card back needs to keep them.
-function extractIntro(body) {
-  const marker = body.indexOf("#### [answers]");
-  const beforeMarker = marker === -1 ? body : body.slice(0, marker);
-
-  return beforeMarker
-    .split(/\r?\n\s*\r?\n/) // split into paragraphs on blank lines
-    .map((p) => p.trim().replace(/\s+/g, " "))
-    .filter(Boolean);
+function renderAnswersHtml(body) {
+  const marker = body.indexOf("[answers]");
+  if (marker === -1) return "";
+  const answersMarkdown = body.slice(marker + "[answers]".length);
+  return md.render(answersMarkdown.trim());
 }
 
 function main() {
@@ -124,8 +121,8 @@ function main() {
       questions: Array.isArray(frontmatter.questions)
         ? frontmatter.questions
         : [],
-      intro: extractIntro(body),
-      answers: extractAnswers(body),
+      introHtml: renderIntroHtml(body),
+      answersHtml: renderAnswersHtml(body),
     };
   });
 

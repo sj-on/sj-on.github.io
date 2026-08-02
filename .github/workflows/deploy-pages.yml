@@ -26,6 +26,8 @@ jobs:
         with:
           node-version: '20' # Specify a node version, e.g., 20, for stability
       - run: npm ci
+      - name: Generate cards.json for the app to fetch live
+        run: node scripts/build-cards-json.mjs
       - run: npx @11ty/eleventy
 
       # deploy the content of _site to the branch gh-pages (default setting)
