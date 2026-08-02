@@ -170,8 +170,8 @@
         appliedDx = dx * RESIST_RATIO; // rubber-band resistance at the edge
         updateHint(
           direction === "right"
-            ? "that's the latest one"
-            : "that's the oldest one"
+            ? "that's the oldest one"
+            : "that's the latest one"
         );
       } else {
         updateHint(null);
