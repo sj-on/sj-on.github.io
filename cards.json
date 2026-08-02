@@ -1,0 +1,517 @@
+[
+  {
+    "slug": "revolution",
+    "number": 37,
+    "title": "revolution",
+    "image": "🌍",
+    "questions": [
+      "how often should i rotate my passwords?",
+      "how small is too small a revolution?",
+      "how many people does it take to change a mind?",
+      "how far can a question travel without an answer?"
+    ],
+    "introHtml": "<p>a revolution is an activity of magnitude that results in change of seasons, regimes, or both.</p>\n<p>for every 365.25 solar days, a year passes on earth, thanks to its revolutionary nature.</p>\n",
+    "answersHtml": "<ol>\n<li>try syncing to earth's rotational frequency. your passwords will be happier knowing they are geo-synced.</li>\n<li>every revolution begins as a very small circle.</li>\n<li>a mind can change multiple people at once. symmetrically speaking, a mind can be changed by however many persons it deems worthy.</li>\n<li>far enough to come back wiser. answers have a habit of revolving around good questions.</li>\n</ol>\n"
+  },
+  {
+    "slug": "passwords",
+    "number": 36,
+    "title": "passwords",
+    "image": "🔑",
+    "questions": [
+      "what do the asterisks hide?",
+      "who remembers forgotten passwords?",
+      "when does a password expire?",
+      "is there a senior living facility for passwords?"
+    ],
+    "introHtml": "<p>passwords are domesticated secrets reincarnated.</p>\n<p>left unattended, they eventually wander off into the wild, with suffering as their only true companion.</p>\n",
+    "answersHtml": "<ol>\n<li>the swears.</li>\n<li>badly designed websites.</li>\n<li>when it wants to live no more, a password quietly announces its expiration.</li>\n<li>yes, the dark web. they're all available for sale there.</li>\n</ol>\n"
+  },
+  {
+    "slug": "silence",
+    "number": 35,
+    "title": "silence",
+    "image": "🤫",
+    "questions": [
+      "where do unsaid words go?",
+      "why is an awkward silence heavier than non-awkward silence?",
+      "why is the orchard silent?",
+      "can silence be interrupted?"
+    ],
+    "introHtml": "",
+    "answersHtml": "<ol>\n<li>the silent orchard.</li>\n<li>emotional exchange introduces a lot of weight into a discussion, which the silence readily absorbs.</li>\n<li>as a keeper of unsaid words, it has gotten really good at listening to others think.</li>\n<li>silence is fragile. adding either words or more silence dents it beyond repair.</li>\n</ol>\n"
+  },
+  {
+    "slug": "sewers",
+    "number": 34,
+    "title": "sewers",
+    "image": "🚽",
+    "questions": [
+      "why do cities have intestines?",
+      "why does my plumbing leak?",
+      "why do the roads have potholes?",
+      "what makes a city dense?"
+    ],
+    "introHtml": "<p>a sewer is an underground subway system for domestic and industrial waste. sewer flooding is what happens when a city attempts to swear but fails visibly... and pungently.</p>\n<p>unlike swears, sewers are censored with concrete instead of asterisks, but they leak the afterthought anyway.</p>\n",
+    "answersHtml": "<ol>\n<li>it's a part of their digestive tract. a city is a living organism; it needs a digestive system for its regular activities.</li>\n<li>oh, buddy, you've more than just plumbing that leaks.</li>\n<li>they were jealous of stories with plotholes, so they decided to one-up them.</li>\n<li>i'm pretty sure it's that fricking concrete hanging out with bureaucracy again.</li>\n</ol>\n"
+  },
+  {
+    "slug": "swear-words",
+    "number": 33,
+    "title": "swear words",
+    "image": "🤬",
+    "questions": [
+      "who invented swear words?",
+      "where do censored words go?",
+      "why does adding one word make a sentence illegal?",
+      "what can i learn swears from?"
+    ],
+    "introHtml": "<p>a few years ago, i was part of the <em>&quot;swearing = bad&quot; club</em>. cut to the present, and i have converted, earning a specialisation in speaking in morse code.</p>\n<p>swearing is a resourceful little activity. it helps you get your point across amidst the textbook nonsense by presenting you as tougher and more confident than you have any right to be. that's one trick i've learnt from watching those national tv debates.</p>\n<p>what's funnier is how you can bleep out a perfectly moral sentence and everyone autofills the swear anyway. helps shine a light on who the real &quot;bad influence&quot; is.</p>\n",
+    "answersHtml": "<ol>\n<li>i didn't.</li>\n<li>they stay hidden away in the holes humans have darned them to.</li>\n<li>scapegoating. it wasn't the word's fault, i swear.</li>\n<li><em>my immortal</em> by tara gilesbie. absolute goldmine of swears and an excellent vocabulary builder. 5/5 god reviuws. will read again.<br>\nsometimes, my pigeon — when he gets time — holds these tuition classes for free. <em>ow, fu—.</em></li>\n</ol>\n"
+  },
+  {
+    "slug": "captcha",
+    "number": 32,
+    "title": "captcha",
+    "image": "🤖",
+    "questions": [
+      "who is a liar?",
+      "what's the cost of a companionship?",
+      "who is naturally stupid?",
+      "why aren't turing tests private?"
+    ],
+    "introHtml": "<p>captcha is the language you speak when the webpages refuse to load believing that they're under an attack. (how dare they make everything about them!)</p>\n<p>i know of no better artificially intelligent life purpose than to pass a captcha exam. for others, captchas don't seem to offer as much barrier in false disclosure of their identities.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>a bot who tells a website they're not a robot.</p>\n</li>\n<li>\n<p>a captcha exam is the small price a bot pays for access to a website's internals.</p>\n</li>\n<li>\n<p>the one whose life's ultimate purpose is not to pass captcha.</p>\n</li>\n<li>\n<p>public embarrassment, buddy!</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "stars",
+    "number": 31,
+    "title": "stars",
+    "image": "⭐",
+    "questions": [
+      "why do stars twinkle?",
+      "how i wonder what you are?",
+      "why is the moon following me?",
+      "why don't stars fall more often?"
+    ],
+    "introHtml": "<p>stars are hot giants.</p>\n<p>a star is usually afraid of people getting too close to its gravitational orbit and leaving it with no personal space. when a star gets lonely, it shines brighter than others to keep the darkness at bay.</p>\n<p>a star knows it is a star because people keep telling it that, and at this point, it is done telling people off.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>similar to how it is with eyes, they twinkle when they cry.</p>\n</li>\n<li>\n<p>how, in deed.</p>\n</li>\n<li>\n<p>the moon loves to be around delightfully stupid beings. also, you followed it first, you liar!</p>\n</li>\n<li>\n<p>because it hurts too dang much. ouch.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "squirrel",
+    "number": 30,
+    "title": "squirrel",
+    "image": "🐿️",
+    "questions": [
+      "does my neighbour love me?",
+      "how to make a squirrel fly?",
+      "why are squirrels adorable?",
+      "if a squirrel steals from another squirrel, is that theft or redistribution?"
+    ],
+    "introHtml": "<p>a squirrel is a daughter of the road.</p>\n<p>that is why she keeps running away from her (over to trees). she's scared of getting caught for crimes she never got to commit.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>if she's a squirrel, the answer is no. she is fond of the free food and fuzzy clothes, though.</p>\n</li>\n<li>\n<p>consult a bird friend. or red bull.</p>\n</li>\n<li>\n<p>adorableness is a by-product of never forgetting how small you are. also, squirrels are cute only until they bite off your toe.</p>\n</li>\n<li>\n<p>my neighbour has filed for a redistribution. gotta see what that's about. bye.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "things-of-internet",
+    "number": 29,
+    "title": "things of internet",
+    "image": "🛜",
+    "questions": [
+      "where do deleted files go?",
+      "why do robots keep trying to prove they're humans?",
+      "what is a website?",
+      "where is the internet?"
+    ],
+    "introHtml": "<p>things that have found a home on the internet.</p>\n<p>lucky them! home is an expensive, hard-to-find place where love exists unconditionally. maybe that's why it is hard to find.</p>\n<p>things of internet often don't stay that way. they creep into the offline life one bit at a time.</p>\n<p>(disambiguation: &quot;internet of things&quot; is a different concept altogether.)</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>it depends on where you deleted them to.</p>\n</li>\n<li>\n<p>it's funny that they think humans have a better chance at life.</p>\n</li>\n<li>\n<p>mommy of webpages. it's got a homepage, some hits, and a developer who's committed to keeping it alive.</p>\n</li>\n<li>\n<p>omnipresent. especially underwater cables.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "disguised-employment",
+    "number": 28,
+    "title": "disguised employment",
+    "image": "👔",
+    "questions": [
+      "how can employment be disguised?",
+      "is it bad for society?",
+      "why are we a family?",
+      "why is overtime called 'over' if it keeps going?"
+    ],
+    "introHtml": "<p>the art of getting paid to eff around a lot and add absolutely nothing of value to the employing organisation.</p>\n<p>disguised employment is a superpower people pray to be blessed with, but doing so disturbs the karmic balance of the universe. hence, it is not granted.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>similar to how unemployment is.</p>\n</li>\n<li>\n<p>yes, it gives rise to unnecessary inflation.</p>\n</li>\n<li>\n<p>you don't get to decide the family you're adopted into.</p>\n</li>\n<li>\n<p>i'm over my word limit to answer this.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "suffering",
+    "number": 27,
+    "title": "suffering",
+    "image": "😭",
+    "questions": [
+      "why are we here?",
+      "who cares?",
+      "is caring an advantage?",
+      "how much truth can survive a bad premise?"
+    ],
+    "introHtml": "<p>suffering is the only constant in the lifecycle of a password and a key is nothing but a password made of metal.</p>\n<p>a concept materialised in some parts of the world in the late 19th century. recognising the universal nature of suffering, it was befittingly called &quot;universal adult suffrage&quot; or &quot;all adults suffer universally.&quot;</p>\n<p>prior to this, only males suffered universally. this was a belief prevalent among the peoples of the times and was termed &quot;universal male suffrage.&quot;</p>\n<p>universal adult suffrage does not recognise or attempts to recognise the suffering of minors or babies. if you can't vote, you don't get thought about. political representation has a way of making systems care about you.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>just to suffer.</p>\n</li>\n<li>\n<p>suprisingly, systems do. paperwork is one of the highest forms of affection.</p>\n</li>\n<li>\n<p>mycroft holmes would strongly disagree. all lives end. all hearts are broken.</p>\n</li>\n<li>\n<p>sometimes more than expected.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "kids",
+    "number": 26,
+    "title": "kids",
+    "image": "👶",
+    "questions": [
+      "what is a kid?",
+      "how do you make a kid?",
+      "why have a kid?",
+      "what is an adult?"
+    ],
+    "introHtml": "<p>a kid is a product of several hours of labour. literally.</p>\n<p>a kid is also an investment class, a retirement plan, a being to offload your unfulfilled dreams to.</p>\n<p>for others, these descendents are the key to beating death to death and staying alive forever.</p>\n<p>one of my kids is preparing to be an ambulance. god and traffic lights have stopped believing in him. i know i have too.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>a kid is a prepubescent adult.</p>\n</li>\n<li>\n<p>bake the baby dough in an oven that's been preheated for a specified amount of time. do not let it catch fire! babies and fire do not go well together.</p>\n</li>\n<li>\n<p>you get to play god. is there a feeling better than that?</p>\n</li>\n<li>\n<p>an adult is a discontinued child.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "unsolicited-life-advice",
+    "number": 25,
+    "title": "unsolicited life advice",
+    "image": "🧬",
+    "questions": [
+      "what is unsolicited life advice?",
+      "is it helpful?",
+      "how long was that?",
+      "is time dilation possible?"
+    ],
+    "introHtml": "<p>unsolicited life advice is often generic, inapplicable to the situation in question (if it was ever brought up), and basically an insult to the receiving end.</p>\n<p>you can &quot;mark as spam&quot; a junk mail, but its irl counterpart lacks that mechanism.</p>\n<p>prolonged exposure to unsolicited advice has measurable effects on nearby clocks. i am not getting back those 25 minutes, but guess what, the theory of relativity just gained a new believer!</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>a multifunctionary discipline, a branch of phobosophy, that manages to do a lot and nothing, simultaneously. how? not my department.</p>\n</li>\n<li>\n<p>the speaker wholeheartedly agrees!</p>\n</li>\n<li>\n<p>felt like my lifetime. watch says 25 minutes.</p>\n</li>\n<li>\n<p>yes, i have seen it happen. a lot.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "attachment",
+    "number": 24,
+    "title": "attachment",
+    "image": "📎",
+    "questions": [
+      "what is attachment?",
+      "why do we have attachments?",
+      "how large can an attachment be?",
+      "pfa the mom."
+    ],
+    "introHtml": "<p>an attachment is something that is attached to another entity. understood? good.</p>\n<p>attachments can be physical, digital, legal, or emotional; all of them are equivalently painful.</p>\n<p>lord buddha, imho, is the biggest unfan of these and for good reason.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>attachment is the root of suffering. upadhi dukkhassa mūlanti.</p>\n</li>\n<li>\n<p>not everything in the world can be sent as utf-encoded text, can it?</p>\n</li>\n<li>\n<p>gmail says 25 MBs.</p>\n</li>\n<li>\n<p>oh, i already don't want to.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "sleeping-doggo",
+    "number": 23,
+    "title": "sleeping doggo",
+    "image": "🐶",
+    "questions": [
+      "does a doggo sleep when bored?",
+      "why is their sleep light and fractured?",
+      "i left out some clean water for my homies.",
+      "do they use sleep to escape sadness like i've seen a lot of people do?"
+    ],
+    "introHtml": "<p>a sleeping doggo is a sleeping beauty who cannot be awoken by true love's first kiss because dogs can only bite.</p>\n<p>when dreaming, a doggo may twitch or whimper. this is a normal behaviour but may sometimes indicate discomfort or a nightmare. no one ever signs up for a nightmare (especially not a sleeping doggo!) and it is not easy to break out of one.</p>\n<p>what can help them wake up, rather, is a soft pat on the head as an assurance that everything will be alright.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>sometimes.</p>\n</li>\n<li>\n<p>it's a living mechanism — a physical necessity.</p>\n</li>\n<li>\n<p>good, thank you!</p>\n</li>\n<li>\n<p>the sadness is real, but the sleep is not an escape from it.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "job-security",
+    "number": 22,
+    "title": "job security",
+    "image": "💼",
+    "questions": [
+      "what career is right for me?",
+      "is unemployment a career path?",
+      "is being a snowman a full-time job?",
+      "how many years of experience do i need to be born?"
+    ],
+    "introHtml": "<p>a job is said to be secure when it cannot be easily guessed. i thought this was true only of passwords, but boy, was i wrong.</p>\n<p>some jobs are — by their very nature — more secure than other jobs.</p>\n<p>you not knowing god's modus operandi ensures that a godman never has to leave his office of profit, and political unawareness of the commons fills a politician with a sense of safety that a vast section of society can never learn to afford.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>the one that doesn't make you feel left out.</p>\n</li>\n<li>\n<p>unfortunately, in a lot of economies a lot of times, it happens to be the career path for many. mind you, this is different from having no job as your dream job.</p>\n</li>\n<li>\n<p>you can quit when the burnout is real and you've started to melt.</p>\n</li>\n<li>\n<p>at least 5.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "friends",
+    "number": 21,
+    "title": "friends",
+    "image": "🫂",
+    "questions": [
+      "my thoughts accompany me everywhere i go and do not leave me alone even for a sec (which i am grateful for). are we friends?",
+      "does 'i' matter?",
+      "what makes a friend imaginary?",
+      "imagine dragons."
+    ],
+    "introHtml": "<p>a friend in need is a friend indeed.</p>\n<p>real friends don't leave friends alone in times of need, speed, or weed.</p>\n<p>multiply an imaginary friend by &quot;i&quot; and suddenly they are real. i think, therefore i am my imaginary friend.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>yes.</p>\n</li>\n<li>\n<p>as the ninth letter of the alphabet, it occupies space and has mass. 'i' has a volume too, much like those tv debates.</p>\n</li>\n<li>\n<p>society.</p>\n</li>\n<li>\n<p>okay, done.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "the-truth-factory",
+    "number": 20,
+    "title": "the truth factory",
+    "image": "💯",
+    "questions": [
+      "why would you create this?",
+      "do you like QnAs?",
+      "where did the idea come from?",
+      "is it necessary to pair a pretty front with a prettier back?"
+    ],
+    "introHtml": "<p>welcome to the truth factory (ttf), where the front is pretty and the back is prettier. this is a collection of cards about things you didn’t ask for but are going to get.</p>\n<p>the truth factory is a state-of-the-art facility dedicated to the industrial-scale production of truths: emotional, technical, and whatever other kinds they come in, and statements that sounded correct at the time of writing.</p>\n<p>every truth is carefully assembled using only the finest ingredients:</p>\n<ul>\n<li>angst</li>\n<li>sleep deprivation</li>\n<li>internet access</li>\n<li>vibes</li>\n<li>and time dilation</li>\n</ul>\n",
+    "answersHtml": "<ol>\n<li>\n<p>everyone has a project they're proud of working on.</p>\n</li>\n<li>\n<p>i like the way a conversation is born when a question gets responded to and an answer gets questioned.</p>\n</li>\n<li>\n<p>someone in the 21st century thought how fun it would be to have collectible cards have reading comprehension assignments but digitally.</p>\n</li>\n<li>\n<p>why else would a card turn? it's not a coin, silly.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "magic-numbers",
+    "number": 19,
+    "title": "magic numbers",
+    "image": "🎱",
+    "questions": [
+      "i heard there were magic words too!",
+      "what did i do?",
+      "you're being mean :(",
+      "friendship is magic?"
+    ],
+    "introHtml": "<p>magic numbers help determine the type a file is going to be when it grows up.</p>\n<p>numbers are also magical when you phone your granny to ask her if she needs any more copies of &quot;how to colour a colour the OG way while making your plants' day&quot; and someone from the beyond answers the dang call.</p>\n<p><em>dude, i am not good at small talk. okay, bye.</em></p>\n<p>grown up, i've realised the most magical of all the numbers is your date of birth. that's prolly why the microsoft tech support keeps asking my mother for hers (and the card details).</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>yeah, what about &quot;frick you&quot;?</p>\n</li>\n<li>\n<p>increase the world's population by 1.</p>\n</li>\n<li>\n<p>sorry. hard day at work.</p>\n</li>\n<li>\n<p>it sure is :)</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "github-pages",
+    "number": 18,
+    "title": "github pages",
+    "image": "📟",
+    "questions": [
+      "what's guthib?",
+      "can i be as cool as github pages?",
+      "what's a subdomain?",
+      "cloudflare pages?"
+    ],
+    "introHtml": "<p>if you ever dreamt of publishing a static site, first of all: <em>wtf, bro. it's a crime to dream small.</em></p>\n<p>but also, github pages is cool.</p>\n<p>github pages doesn’t ask for your credit card upon sign up. github pages takes your broken dreams, unparseable html, unending css, and unfindable javascript, and gently places them onto the public internet for the world to see.</p>\n<p>even when you don’t fully want that.</p>\n<p>that’s courage. or negligence.</p>\n<p>mostly negligence.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>you spelled it wrong. again.</p>\n</li>\n<li>\n<p>nah. that cannot be allowed to happen. please compete with surge.sh, netlify, or vercel instead.</p>\n</li>\n<li>\n<p>i’m glad you asked. i'm confident you are more than capable of finding out on your own.</p>\n</li>\n<li>\n<p>we don’t talk about that here.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "mmo",
+    "number": 17,
+    "title": "massive multiplayer offline",
+    "image": "🎮",
+    "questions": [
+      "what genre do they come in?",
+      "is the digital friend a 'real' friend?",
+      "what is the leading cause of death in offline lobbies?",
+      "should we start 'working from office' soon?"
+    ],
+    "introHtml": "<p>online multiplayer games are one of the best ways introverts socialise. i know because i too couldn't keep a conversation from dying into silence participating in offline multiplayer games.</p>\n<p>a massive multiplayer offline game is something i would not even dare dream being a part of. that's nightmare fuel. uh, okay; enough explaining; it's panic attack time!</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>horror, basically.</p>\n</li>\n<li>\n<p>even better. you don’t have to know their last name or their tax bracket. it’s the purest form of human bonding — stripped of the &quot;i am beyond humbled and honored to announce...&quot; small talk.</p>\n</li>\n<li>\n<p>politeness is. it is the inability to signal that the interaction is becoming socially draining.</p>\n</li>\n<li>\n<p>nope. i like the ms teams version of our meetings better. very productive. you cannot get that from me offline.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "sister-channels",
+    "number": 16,
+    "title": "sister channels",
+    "image": "🍼",
+    "questions": [
+      "why are they born?",
+      "what happens if the sister channel becomes more successful than the main channel?",
+      "why do viewers feel a sense of 'questionable sanity' when watching sister channels?",
+      "are you okay?"
+    ],
+    "introHtml": "<p>sister channels are weird in the sense that a sibling (the one with the &quot;main character syndrome&quot;) gives birth to them. this explains why there are constant callbacks directed towards the younger baby (with a familiar bossing around in the background which is a characteristic feature of this relationship).</p>\n<p>a sister channel is a classic example of a main channel gone feral. think &quot;when parents want a chartered accountant in the family but you want to do a longform analysis of songs composed in natural minor that would've sounded better in dorian mode,&quot; and you'll know why it's always the damn sisters!</p>\n<p>you may or may not question the authority, but you can always question your sanity.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>because there's not enough chaos in the world to begin with.</p>\n</li>\n<li>\n<p>a total collapse of the sibling ego. when the &quot;dorian mode&quot; deep dive gets more hits than the &quot;professional tech review,&quot; the creator realizes the feral child was the one they should have been all along.</p>\n</li>\n<li>\n<p>the sister channel is the only place where the creator is truly honest, which is why the main channel (and the audience) is so terrified of it. one is a career; the other is a confession.</p>\n</li>\n<li>\n<p>i have three sister channels. what do you think?</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "lungs",
+    "number": 15,
+    "title": "matters close to heart",
+    "image": "🥰",
+    "questions": [
+      "why are they so close to your heart?",
+      "how to know if my lungs are healthy?",
+      "can lungs feel emotions?",
+      "is donating good?"
+    ],
+    "introHtml": "<p>when i think of lungs, the first thing that comes to my mind is breathing. breathing is something that i am very good at. i have done it ever since i was born. even before i was born, i thought about breathing and how nice it would be to have as a hobby. so i practiced it in the womb.</p>\n<p>and then i came into this world — as a baby, obviously — and i taught my parents to breathe. i found they picked it up pretty quick. then i taught them how to change my nappies and clean me up.</p>\n<p>thank you, parents! you are awesome.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>biology. and also,<br>\n&quot;'cuz when the AQI is shit,<br>\nthese lungs take the hit.&quot;</p>\n</li>\n<li>\n<p>there's an app i created for that. it’s available on the play store and the app store — and it <em>literally</em> depicts my medical records (including how healthy my lungs are) in real time. powered by web sockets.<br>\noh, you meant <em>your</em> lungs? if your lungs are inside your body, trust me — they’re already outperforming mine.</p>\n</li>\n<li>\n<p>can they? i mean, i guess, yeah. mostly fear. they can sense it when i am panicking, which i am currently not.</p>\n</li>\n<li>\n<p>donating lungs? yes. organ donation is a good practice. it’s like donating money. when in excess — donate them to someone they'd like to be a part of. e.g., a science experiment.<br>\nbasically, you shouldn’t let them go to waste. that'll make lungs sad.<br>\nreuse. recycle. respire.<br>\nif science says no, donate them to a museum. let the kids learn from your mistakes.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "birthdays",
+    "number": 14,
+    "title": "birthdays",
+    "image": "🎂",
+    "questions": [
+      "i want to know who you are!",
+      "when is your birthday?",
+      "how come i don’t have one?",
+      "how old are you?"
+    ],
+    "introHtml": "<p>birthdays come once a year (if you’re lucky) and are considered an occasion for celebration in most cultures — especially the ones that equate being older with being wiser.</p>\n<p>not true. i have counterexamples that i will not hesitate to present, if provoked.</p>\n<p><em>frick. i've been provoked.</em></p>\n<p>counter-example #1: wars.<br>\ncounter-example #2: sequels to wars.</p>\n<p>birthdays aren’t just for the living. the dead get them too — provided they were famous enough.</p>\n<p>they remind us what it’s like to be alive, what it’s like to be born unconsented, and serve as a convenient excuse for people to gather and talk shit about those who didn’t show up.</p>\n<p>if you think about it long enough, birthdays are like most things in life:<br>\nthey happen spontaneously, leaving you alone to deal with the aftermath.</p>\n<p><em>&quot;oh, my birthday was yesterday? who was going to tell me?&quot;</em></p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>that’s an unreasonable request. also, not a question.<br>\nbtw, happy birthday — whenever it’s due.</p>\n</li>\n<li>\n<p>there’ll come a day. you’ll have to deal with it.<br>\ni don’t do announcements. we like it quiet here: me, the inner demons, the closet monsters, and everybody in between.</p>\n</li>\n<li>\n<p>birthdays are like magic. if you don’t believe in them, one will fly past without you ever knowing.<br>\nknowing other people’s birthdays comes in handy while scamming. just saying.</p>\n</li>\n<li>\n<p>5,000 years and counting.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "problem-loading-page",
+    "number": 13,
+    "title": "problem loading page",
+    "image": "🌐",
+    "questions": [
+      "what is a problem loading page?",
+      "is it trying to help?",
+      "why does it show up now of all times?",
+      "what am i supposed to do with it?"
+    ],
+    "introHtml": "<p>a problem loading page is a web page whose sole purpose is to load problems into your life.<br>\nas if there aren’t many already.</p>\n<p>like, dude. i am committed to my existing problems. i can’t cheat on them with <em>your</em> 43 offspring.</p>\n<p>i didn’t ask for new issues. i didn’t click “add to cart.”<br>\ni just wanted the thing i came here for.</p>\n<p>instead, i’m staring at an apology from a machine that clearly doesn’t mean it.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>a page that failed its one job and decided to make that your problem.</p>\n</li>\n<li>\n<p>no. it just wants to be acknowledged and then disappear.</p>\n</li>\n<li>\n<p>because inconvenience has impeccable timing.</p>\n</li>\n<li>\n<p>stare at it. refresh once. refresh twice. then accept that this is your life now.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "productivity",
+    "number": 12,
+    "title": "productivity",
+    "image": "💻",
+    "questions": [
+      "can i trust my brain?",
+      "what are the different levels of productivity?",
+      "is 'to think it, to do it'?",
+      "how do i know if i was productive today?"
+    ],
+    "introHtml": "<p>being on a high that can only be induced by prolonged company of blue screens, the brain may falsely report engagement as productivity.</p>\n<p>the brain is a fricking liar. it lies so convincingly.</p>\n<p>the worst part is that it believes itself.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>the brain agrees you should.</p>\n</li>\n<li>\n<p>i'm glad you asked. they are:</p>\n<ul>\n<li><strong>level 0:</strong> medium.</li>\n<li><strong>level 1:</strong> high.</li>\n<li><strong>level &gt;9000:</strong> engagement-induced hallucination.</li>\n</ul>\n</li>\n<li>\n<p>jesus would prolly agree.</p>\n</li>\n<li>\n<p>did it feel intense?</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "the-monster-from-your-closet",
+    "number": 11,
+    "title": "the monster from your closet",
+    "image": "🧌",
+    "questions": [
+      "are closet monsters real?",
+      "why are they always in closets?",
+      "were they scared of you?",
+      "what happened to the monster?"
+    ],
+    "introHtml": "<p>closet monsters are extremely shy. greet one with a smiling “hi” just once, and you’ll never hear from them again. they don’t thrive on fear — they panic when acknowledged.</p>\n<p>i was very scared of them as a kid. back then, fear had a place to live. it stayed in corners. it waited for night.</p>\n<p>then i grew up and bore the consequences of my fellows' actions. i have trouble understanding how they manage to scare the living hell out of me every single day, in broad daylight, without hiding at all.</p>\n<p>greet one with a smiling &quot;hi,&quot; and you cannot predict what you have brought upon yourself.</p>\n<p>10/10. would be a kid again.</p>\n<p>the monster from my closet was a lot less scary.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>yes. but they never meant to hurt anyone.</p>\n</li>\n<li>\n<p>because closets are quiet, dark, and mostly ignored — same as their personalities.</p>\n</li>\n<li>\n<p>i tried not to give them a reason to. i learned early how not to provoke things bigger than me.</p>\n</li>\n<li>\n<p>nothing. it stayed in the closet. i’m the one who left.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "scams",
+    "number": 10,
+    "title": "scams",
+    "image": "😩",
+    "questions": [
+      "have i been scammed before?",
+      "who scammed you?",
+      "do you sometimes feel like scamming others?",
+      "are there any good scams?"
+    ],
+    "introHtml": "<p>college was definitely a scam. i only realised it once i stepped out of it.</p>\n<p>“perceived success” = “true happiness” was a scam too, and i fell for that one for a long time. (who hasn't?)</p>\n<p>come to think of it, i’ve been scammed in some way or the other my entire life. the longer i stare at it, the more obvious it becomes: life itself might be the ultimate scam. the kind so big, no one believes it until you try explaining how exactly it orchestrates every little swindle that led you here. only this time, i've realised it before stepping out.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>shouldn't <em>you</em> know? anyway, anyone who's been alive for any amount of time has been scammed. even me!</p>\n</li>\n<li>\n<p>nameless people. shameless people.</p>\n</li>\n<li>\n<p>at this point, yeah. if there's one thing i've learnt: if you can't beat 'em, join 'em. i’ve made a list of people i want to scam, and you’re not on it.</p>\n</li>\n</ol>\n<p>not sure if that’s a good thing.</p>\n<ol start=\"4\">\n<li>nope. if it's a scam, it's bad. simple. except when i get to do it. then it won't be called a scam.</li>\n</ol>\n"
+  },
+  {
+    "slug": "side-side-projects",
+    "number": 9,
+    "title": "side side projects",
+    "image": "📚",
+    "questions": [
+      "what's a good number of side side projects to have?",
+      "is it like those side quests greek gods used to send demigods on while they were too busy conducting important matters like cattle diseases, famine, and wireless infidelity?",
+      "how do i know when a side side project has gone too far?",
+      "will finishing a side side project help me finish the main project?"
+    ],
+    "introHtml": "<p>a side side project is a mini project you build to facilitate smooth creation of the main side project, while losing track of what the main project even looked like.</p>\n<p>a main project is the one which you never get to work on what with all the side side projects, main side projects, side main projects, and the main main project.</p>\n<p>don't worry, you'll get the hang of it.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>one more than you currently have.</p>\n</li>\n<li>\n<p>that’s oddly specific. also, not exactly — but yeah.</p>\n</li>\n<li>\n<p>there is no such thing as &quot;going too far&quot; for a side project. everything lies within the confines of its boundaries.</p>\n</li>\n<li>\n<p>absolutely not. but it will feel productive.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "procrastination",
+    "number": 8,
+    "title": "procrastination",
+    "image": "🦥",
+    "questions": [
+      "???"
+    ],
+    "introHtml": "<p>i'll write this tomorrow.</p>\n",
+    "answersHtml": ""
+  },
+  {
+    "slug": "dead-trees",
+    "number": 7,
+    "title": "paper",
+    "image": "📃",
+    "questions": [
+      "why do humans still use paper?",
+      "isn't paper just… dead trees?",
+      "why does writing on paper feel different?",
+      "should i trust paper more than people?"
+    ],
+    "introHtml": "<p>paper is technically a dead tree reincarnated as your emotional support system. when you want to tell someone something but aren't sure they'll appreciate it — paper listens. silently. respectfully. without judging your handwriting, life choices, or insomnia.</p>\n<p>paper sticks with you: through ink spills, mental breakdowns, crossed-out sentences, and entire pages you regret the second they exist.</p>\n<p>people? inconsistent. unpredictable. sometimes annoying.</p>\n<p>paper? dependable, quiet, and literally always there.</p>\n<p>frick people, i'm committing myself to paper. it has seen the worst of me and still hasn’t left.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>there still are trees alive that paper can be made out of.</p>\n</li>\n<li>\n<p>yes. we cut down the trees and went, “hey, nature corpse, hold my feelings.”</p>\n</li>\n<li>\n<p>paper absorbs emotions like a sponge with a phd in empathy.</p>\n</li>\n<li>\n<p>absolutely. paper has never betrayed me, unlike some individuals i won't name.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "group-projects",
+    "number": 6,
+    "title": "group projects",
+    "image": "👥",
+    "questions": [
+      "why do group projects exist?",
+      "what happens to the group once the project ends?",
+      "why is every group project essentially the same?",
+      "can we be project-mates?"
+    ],
+    "introHtml": "<p>once upon a time, a teacher woke up and chose violence. that was the day group projects were invented. ever since, students have been gathering in random assortments of four, forming temporary civilizations built entirely on confusion, panic, and “<em>who’s making the ppt??</em>” energy.</p>\n<p>the group forms. chaos ignites. someone sends “hi guys!” and is never heard from again. someone else says “what are we doing?” even though the instructions are literally pinned. you, meanwhile, begin to understand why ancient philosophers wandered into the woods and never came back. teamwork happens accidentally, mostly because one exhausted soul gives up and does everything.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>a teacher once decided he hated his students, and group projects were the perfect way to get back at them. historians support this claim.</p>\n</li>\n<li>\n<p>they vanish instantly. the moment the assignment is submitted, they dissolve like cursed spirits whose purpose has been fulfilled.</p>\n</li>\n<li>\n<p>because there are only four kinds of group members:</p>\n<ul>\n<li>the one who does everything (blessed be their soul)</li>\n<li>the one who offers moral support (sends emojis and nothing else)</li>\n<li>the one who takes the credit (“<em>we</em> worked really hard on this”)</li>\n<li>the one who is a ghost (the group doesn't know they exist and vice-versa)</li>\n</ul>\n</li>\n<li>\n<p>hell no!</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "inner-demons",
+    "number": 5,
+    "title": "inner demons",
+    "image": "👹",
+    "questions": [
+      "how did the demon get inside me?",
+      "what does \\\"facing your demons\\\" mean?",
+      "what if my demon is stronger than me?",
+      "can i return it?"
+    ],
+    "introHtml": "<p>we all have our demons to fight. some of us are too scared to even look them in the eye.<br>\ngather enough courage to stare one down, and the demon just blinks back like, <strong>“bro, what did <em>i</em> do? i was literally birdwatching.”</strong></p>\n<p>demons aren’t nice. i mostly rely on distractions to avoid acknowledging them. it works until it doesn’t — and then i go right back to ignoring them again. emotional cardio, basically, but, like, the cursed version.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>you tucked it in one day, deep into the safe, soft warmth of your internal organs, and then forgot. it has lived rent-free ever since.</p>\n</li>\n<li>\n<p>it means overthinking until the demon gets bored enough to leave on its own.</p>\n</li>\n<li>\n<p>pretend you’re stronger. fake it until your demon updates its worldview accordingly. emotional cardio, remember?</p>\n</li>\n<li>\n<p>customer service says no. inner demons come with a strict <em>no-refund, no-return</em> policy. if you abandon it forcibly, it will die unhappily and its family will grieve, and you do <strong>not</strong> want demon relatives showing up at your doorstep.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "bathing",
+    "number": 4,
+    "title": "bathing",
+    "image": "🧼",
+    "questions": [
+      "why bathe?",
+      "how often should i take a bath?",
+      "what's a sin?",
+      "are you for real?"
+    ],
+    "introHtml": "<p>i am a firm believer that bathing is one of humanity’s greatest</p>\n<ol>\n<li>wastes of resources — including but not limited to water, time, mental stamina, and</li>\n<li>crimes against soaps.</li>\n</ol>\n<p>every winter, i have to embark on a spiritual journey called “do i <em>actually</em> need to bathe today?” the answer entirely depends on whether i feel clean enough to survive one more 24-hour cycle — which i mostly do.</p>\n<p>bathing just feels… unnatural, unnecessary — heck, it doesn't even wash my sins away. (jesus had to die for that.) the soap can cleanse my body, sure, but who’s handling the internal damage, bro?</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>if you don't fricking care about that cute little baby soap bar getting wasted, well, DO IT!</p>\n</li>\n<li>\n<p>once a year should be nice.</p>\n</li>\n<li>\n<p>perpendicular over hypotenuse.</p>\n</li>\n<li>\n<p>we're still figuring that one out.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "spiderman",
+    "number": 3,
+    "title": "spiderman",
+    "image": "🕷️",
+    "questions": [
+      "who’s spiderman?",
+      "wait, weren’t you bitten by a spider?",
+      "do you still want to be spiderman?",
+      "you’re my favourite spiderman."
+    ],
+    "introHtml": "<p>as long as i was a child, cartoons were there for me. i grew up watching heroes and superheroes and wanting to be one. my ambitions transitioned fluidly — from being a proud owner of a real omnitrix to a real ultimatrix, then a vibranium shield. iron man's suit even made me consider mechanical engineering (but i didn’t, because i love computers more). somewhere in between all that, i also wanted to be the flash.</p>\n<p>but spiderman always felt like the most self-made of them all.</p>\n<p>and the most accessible. like, all you really needed was a spider and some quality “me time” with it — and BAM, here comes spiderman.</p>\n<p>turns out reality is less cinematic and more… medical.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>sadly, not me.</p>\n</li>\n<li>\n<p>yes, but it wasn’t radioactive. i just got hives. it was painful, itchy, and deeply unheroic. now i hate spiders.</p>\n</li>\n<li>\n<p>eff yeah!</p>\n</li>\n<li>\n<p>aww, that’s cute. anyway, flattery is for losers, dummy.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "socks",
+    "number": 2,
+    "title": "socks",
+    "image": "🧦",
+    "questions": [
+      "where do my socks go when i am not looking at them?",
+      "i hate my socks.",
+      "why does only one sock ever disappear?",
+      "can socks feel pain?"
+    ],
+    "introHtml": "<p>feet gloves to wear when you don't want to be seen with your bare feet in public. left unwashed, they smell like boiled shame. avoid those who skip socks, <em>eww</em>.</p>\n<p>the sock fairy is real. she does not grant wishes. if you leave your socks unattended, she will kidnap them and give them a new life devoid of you or your smells.</p>\n<p>here's a message from your mom: please wash your socks regularly.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>the fairy asked me not to reveal classified information.</p>\n</li>\n<li>\n<p>that's not a question.</p>\n</li>\n<li>\n<p>the sock fairy operates on a strict quota system. two would be greedy, and she has ethics.</p>\n</li>\n<li>\n<p>yes. unfortunately. you just can’t hear it over your own suffering.</p>\n</li>\n</ol>\n"
+  },
+  {
+    "slug": "rich-people",
+    "number": 1,
+    "title": "rich people",
+    "image": "💸",
+    "questions": [
+      "what makes a person rich?",
+      "can i be rich too?",
+      "is rich dad, poor dad?",
+      "are you rich?"
+    ],
+    "introHtml": "<p>the only point of difference between rich people and non-rich people is money.</p>\n<p>oh, and attitude.</p>\n<p>it is not that difficult to be rich. you just have to 1. have the right connections, or 2. be born in the right family.</p>\n<p>it is rumoured that for every 10 non-rich people, there exists a rich person. that's a birth rate lower than my annual salary hike.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>money.</p>\n</li>\n<li>\n<p>no.</p>\n</li>\n<li>\n<p>yeah, as mentioned in his book, he's in a lot of debt.</p>\n</li>\n<li>\n<p>let's not get too personal, shall we?</p>\n</li>\n</ol>\n"
+  }
+]
