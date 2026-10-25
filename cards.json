@@ -1,5 +1,19 @@
 [
   {
+    "slug": "resentment",
+    "number": 38,
+    "title": "resentment",
+    "image": "😤",
+    "questions": [
+      "what's the worst thing you can tell someone?",
+      "can you really tell them that?",
+      "is the resentment for real?",
+      "do you resent filling out this questionnaire?"
+    ],
+    "introHtml": "<p>resentment is one of the four phases of a blessed life: ignorance, achievement, enlightenment, resentment, and withdrawal.</p>\n<p>it takes a gentle reminder from someone half your age that <em>you're off-by-1 again</em>, and the cracks resurface and the resentment kicks in.</p>\n<p>as my father once told me: &quot;one more word out of your mouth, billy, and you'll wish you were never born.&quot;</p>\n",
+    "answersHtml": "<ol>\n<li>that you resent them coming into being.</li>\n<li>no!</li>\n<li>100%.</li>\n<li>um...</li>\n</ol>\n"
+  },
+  {
     "slug": "revolution",
     "number": 37,
     "title": "revolution",
