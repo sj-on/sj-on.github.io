@@ -1,5 +1,19 @@
 [
   {
+    "slug": "potato-chips",
+    "number": 39,
+    "title": "potato chips",
+    "image": "🥔",
+    "questions": [
+      "when the chips are down?",
+      "how many calories does an average serving of chips contain?",
+      "why are some potato chips thicker than others?",
+      "are chips really *that* powerful?"
+    ],
+    "introHtml": "<p>a potato chip is made of grease, salt, and well, potato. potatoes feel deeply disrespected, fried, and used when chips are made outta them.</p>\n<p>a potato chip is bad for you, your health, as well as your wealth. computer chips, on the other hand...</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>there are times they are up?</p>\n</li>\n<li>\n<p>more than you are allowed to intake.</p>\n</li>\n<li>\n<p>i don't know from where i got the idea that we, as society, collectively swore to not be fatphobic.</p>\n</li>\n<li>\n<p>they power everything up: from small electronics to data centres.</p>\n</li>\n</ol>\n"
+  },
+  {
     "slug": "resentment",
     "number": 38,
     "title": "resentment",
