@@ -1,5 +1,19 @@
 [
   {
+    "slug": "writer",
+    "number": 40,
+    "title": "writer",
+    "image": "✍️",
+    "questions": [
+      "what's a writer good for?",
+      "how to differentiate fiction from reality?",
+      "one-line horror story.",
+      "what's your favourite kind of writing?"
+    ],
+    "introHtml": "<p>writers are non-mythical beings, universally burdened with the task of preserving history.</p>\n<p>i mean, take a look at the epics. all of that stuff happened for real ;) would you still have believed <em>it</em> happened if it weren't for a bunch of grey-hairdos (mostly male) who committed themselves to keeping logs of events as they kept happening? (why else would it keep passing down generations if it was farce?)</p>\n<p>this is one of the <em>why's</em> i have to become a writer. i get paid in fame and attention coins, and i join tomorrow.</p>\n",
+    "answersHtml": "<ol>\n<li>\n<p>writers are excellent tradition-preservers, and although some of them may sometimes imagine themselves changing the world one word at a time, that's it.</p>\n</li>\n<li>\n<p>a good piece of writing, one that values transparency, always comes with a disclaimer distinguishing itself.</p>\n</li>\n<li>\n<p>the writer somehow scrapes together the manuscript and the publisher asks for a sequel.</p>\n</li>\n<li>\n<p>the one in which the writer begins writing about writing and continues to write so it's really the writing writing the writer. it's writing all the way down, matey!</p>\n</li>\n</ol>\n"
+  },
+  {
     "slug": "potato-chips",
     "number": 39,
     "title": "potato chips",
